@@ -1,0 +1,1 @@
+# GRADOR_DE_SENHA-3.0
